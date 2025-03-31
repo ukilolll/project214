@@ -1,0 +1,46 @@
+{
+  "subjects": [
+    {
+      "id": "dbce5c71-a424-4884-b470-1f82eebd6b1e",
+      "subject_id": "001",
+      "name": "Algorithm",
+      "grade": "A",
+      "credit": 3
+    },
+    {
+      "id": "4a23c709-e518-4eb1-a626-6f537df218eb",
+      "subject_id": "002",
+      "name": "database",
+      "grade": "B+",
+      "credit": 3
+    },
+    {
+      "id": "363e76ee-cffc-4306-b963-965c08688874",
+      "subject_id": "003",
+      "name": "AI",
+      "grade": "A",
+      "credit": 2
+    },
+    {
+      "id": "11ede8cb-c37d-4076-85eb-c3728a7a3c3f",
+      "subject_id": "004",
+      "name": "english",
+      "grade": "B+",
+      "credit": 3
+    },
+    {
+      "id": "10d69276-2a93-4720-9ef5-1ee3dab935d2",
+      "subject_id": "005",
+      "name": "operating system",
+      "grade": "A",
+      "credit": 3
+    }
+  ],
+  "student": {
+    "student_id": "6630200454",
+    "first_name": "Peerawit",
+    "last_name": "Avirutshewin",
+    "major": "Computer Science",
+    "school": "วัดทรงธรรมวรวิหาร"
+  }
+}
