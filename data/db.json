@@ -37,10 +37,10 @@
     }
   ],
   "student": {
-    "student_id": "6630200454",
-    "first_name": "Peerawit",
-    "last_name": "Avirutshewin",
-    "major": "Computer Science",
-    "school": "วัดทรงธรรมวรวิหาร"
+    "student_id": "student_id",
+    "first_name": "first_name",
+    "last_name": "last_name",
+    "major": "major",
+    "school": "school"
   }
 }

@@ -3,7 +3,7 @@
   <div id="card"> 
     <div id="head">
       <div id="left" class="card">
-        <img src="../assets/images/me1.jpg"/>
+        <img src="your image"/>
       </div>
       <div id="right" class="card">
         <p>{{ student.first_name }} {{ student.last_name }}</p>
@@ -60,13 +60,13 @@
 <footer id="contact">
     <span>Contact</span>
     <div>        
-    <p class="contact">Tel: 0938546666</p>
-    <p class="contact">Email: ukikillme@gmail.com</p>
-    <a class="contact" href="https://www.facebook.com/uki.awirootcheewin/">
+    <p class="contact">Tel: number</p>
+    <p class="contact">Email: email</p>
+    <a class="contact" href="your facebook url">
             <img id="facebook" width="48" height="48" src="../assets/images/Facebook.png"></a>
-    <a class="contact" href="https://www.instagram.com/uki_p11/" >
+    <a class="contact" href="your ig url" >
             <img id="ig" width="48" height="48" src="../assets/images/Instagram.png"></a>
-    <a class="contact" href="http://discordapp.com/users/737996018758713456"> 
+    <a class="contact" href="your discord url"> 
             <img id="discord" width="48" height="48" src="../assets/images/Discord.png"></a>
     </div>
 </footer>
